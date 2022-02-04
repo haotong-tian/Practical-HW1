@@ -2,35 +2,35 @@
 
 ## Step 1.1:
 
-* Address of account A: 
-* Address of account B: 
+* Address of account A: UFGVFLWQSINXQ3FP3KGRB7GJTEJRTUN6IWLACENK2Y6DEPT2YUCDKPNNHA
+* Address of account B: KHZG4CNVWYOQ7CMJWW3MAOC2HP4AKXSPTAC56O7C76I5VCELABCBKQR35E
 
 ## Step 2:
 
-* Transaction ID from account A: 
-* Transaction ID from account B: 
+* Transaction ID from account A: NPG3VRZSQTYVAYSVF3HZTAEVWOFYOECF4D2H7UZLD4ROO6HXV3KA
+* Transaction ID from account B: FDQSZJIELM3J7IC5VD76N5YPMQZLR7RPBWGQD54HUWR5TYNJ6CUA
 
 ## Step 3.1:
 
-* Asset ID:
-* Name of the asset: 
+* Asset ID: 68726518
+* Name of the asset: fendium
 
 ## Step 3.2:
 
-* Transaction ID for opt-in of account B:
+* Transaction ID for opt-in of account B: VLIEKL2DI6V3MHKTDLH3FJYFYQ5MQACEDUJ3D4577HMEZVRWKJLA
 
 ## Step 3.3:
 
-* Transaction ID for transfer of asset from A to B:
+* Transaction ID for transfer of asset from A to B: LE3SWOSYJRSPSIPJRDXBX23WD257WF5EZCDQYAX2364N7CP6C5EQ
 
 ## Step 4:
 
-* Transaction ID of the first transaction of the atomic transfer:
+* Transaction ID of the first transaction of the atomic transfer: 5SXDSDOSJLSCLR4UUJDU5AUFCVCIVH3WTWSM6IKVIZNWTDKG2MFQ
 
 ## Step 5.1:
 
-* Transaction ID for opt-in of account A:
+* Transaction ID for opt-in of account A: J6A7DPZQ4XRIOJFXI5GCR4ORYJZARFNWVUQXHYBFVB444J6JWKNQ
 
 ## Step 5.2:
 
-* Transaction ID of the first transaction of the atomic transfer:
+* Transaction ID of the first transaction of the atomic transfer: E45MDVUXJ4F35I7J56IO3A5H3AKDL5B4MBO4IOZNTYBCLYPJ2KAQ
